@@ -1,0 +1,2 @@
+qwen3-medqa/* filter=lfs diff=lfs merge=lfs -text
+qwen3-legalbench/* filter=lfs diff=lfs merge=lfs -text
